@@ -1,5 +1,8 @@
 # Bank-Marketing-Data-Analysis
 
+### Dataset: 
+[Here](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data)
+
 ## 1️⃣ Understanding the Data
 - **Dataset Overview**: The dataset contains information about bank telemarketing campaigns.
 - **Objective**: Identify patterns that influence whether a customer subscribes to a term deposit (`y` column).
